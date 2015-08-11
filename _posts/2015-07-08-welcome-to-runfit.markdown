@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to RunFit!"
+title:  "RunFit!"
 date:   2015-07-08 10:26:40
 categories: runfit
 ---
